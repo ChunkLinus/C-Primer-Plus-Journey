@@ -1,0 +1,6 @@
+David 95 S
+Bob 92 A
+Frank 88 B
+Alice 85 B
+Charlie 78 C
+Eve 60 D
